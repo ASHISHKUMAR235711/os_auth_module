@@ -1,0 +1,6 @@
+bcrypt
+getpass4
+smtplib
+email-validator
+tk
+
